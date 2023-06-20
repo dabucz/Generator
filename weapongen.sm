@@ -8,7 +8,7 @@ public Plugin myinfo =
 	author = "dabu",
 	description = "Gen Command",
 	version = "1.0",
-	url = "https://github.com/dabucz/"
+	url = "https://github.com/dabucz/Generator"
 };
 
 public void OnPluginStart()
