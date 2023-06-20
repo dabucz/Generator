@@ -6,4 +6,4 @@
 ```
 
 ## How to compile
-go to (sourcemod compiler)[https://www.sourcemod.net/compiler.php]
+go to [sourcemod compiler](https://www.sourcemod.net/compiler.php)
